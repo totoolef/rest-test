@@ -184,6 +184,18 @@ const menuItems = [
     image: 'https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
     ingredients: ['Lait', 'Fraises', 'Chantilly'],
     rating: 4.6
+  },
+  
+  // Desserts
+  {
+    id: 9,
+    name: 'Tiramisu Caramel Kit Kat',
+    description: 'Caramel coulant et éclats de Kit Kat dans un tiramisu fondant fait maison',
+    price: 4.9,
+    category: 'desserts',
+    image: 'https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
+    ingredients: ['Mascarpone', 'Caramel', 'Kit Kat', 'Café', 'Cacao'],
+    rating: 4.9
   }
 ]
 

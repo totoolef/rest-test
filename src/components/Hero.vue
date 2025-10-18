@@ -29,19 +29,19 @@
         </p>
 
         <div class="hero-buttons">
-          <button class="btn btn-primary">
+          <a href="#menu" class="btn btn-primary">
             <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4m0 0L7 13m0 0l-2.5 5M7 13l2.5 5m6-5v6a2 2 0 01-2 2H9a2 2 0 01-2-2v-6m8 0V9a2 2 0 00-2-2H9a2 2 0 00-2 2v4.01"></path>
             </svg>
             <span>Voir le Menu</span>
-          </button>
+          </a>
           
-          <button class="btn btn-secondary">
+          <a href="#apropos" class="btn btn-secondary">
             <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h1m4 0h1m-6 4h8m-5-4v4m-2-4h4"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
             </svg>
-            <span>Réserver</span>
-          </button>
+            <span>Voir les horaires</span>
+          </a>
         </div>
       </div>
     </div>
